@@ -1,2 +1,2 @@
-# Test python file created.\
+# Test python file created.
 print ("Hello Python")
